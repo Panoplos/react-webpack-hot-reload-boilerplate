@@ -1,7 +1,7 @@
 {
   "name": "webpack-dev-test",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "env NODE_ENV=development ./node_modules/.bin/webpack-dev-server --config ./webpack/dev.babel.js"
